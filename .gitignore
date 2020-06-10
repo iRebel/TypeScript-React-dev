@@ -1,0 +1,10 @@
+
+.DS_Store
+node_modules
+.idea
+*.swp
+stats.json
+sftp-config.json
+
+Koa2/static/static/scripts
+React/dist
