@@ -6,4 +6,6 @@ node_modules
 stats.json
 sftp-config.json
 
-dist
+build
+yarn.lock
+yarn-error.log
