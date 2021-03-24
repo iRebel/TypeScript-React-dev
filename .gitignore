@@ -10,3 +10,5 @@ sftp-config.json
 build
 yarn.lock
 yarn-error.log
+*.sublime-project
+*.sublime-workspace
